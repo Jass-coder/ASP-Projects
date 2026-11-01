@@ -1,0 +1,20 @@
+# .NET build files
+**/bin/
+**/obj/
+
+# Visual Studio / VS Code
+.vs/
+.vscode/
+
+# User-specific files
+*.user
+*.suo
+
+# Sensitive configuration
+**/appsettings.Development.json
+
+# Logs
+*.log
+
+# Local database configuration
+/EmployeeManagementApi/appsettings.json
